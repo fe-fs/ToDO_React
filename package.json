@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "http://fe-fs.github.io/ToDo_React/",
+  "homepage": "https://fe-fs.github.io/ToDo_React",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
